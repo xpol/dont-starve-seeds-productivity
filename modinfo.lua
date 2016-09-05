@@ -2,7 +2,7 @@ name = "Seeds Productivity"
 description = "Set birdcage seeds productivity to number of times"
 author = "xpolife"
 
-version = "1.0"
+version = "1.0.1"
 
 forumthread = ""
 
